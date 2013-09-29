@@ -618,6 +618,7 @@ a         { color: #91736b; text-decoration: none; }
     background: #99b9c4;
     color: #fff;
     margin-right: 10px;
+	margin-bottom: 10px;
     padding: 3px 20px;
     float: left;
 }
